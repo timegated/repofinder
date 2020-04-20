@@ -4,3 +4,8 @@ body {
 h1  {
     color: #efefef;
 }
+.searchbar-container {
+    width: 100%;
+    height: 500px;
+    border: solid 2px #efefef;
+}
